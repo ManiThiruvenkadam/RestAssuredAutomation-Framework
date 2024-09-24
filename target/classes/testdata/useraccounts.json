@@ -1,0 +1,22 @@
+{
+  "prod": {
+    "valid": {
+      "username": "july2024.manimegalai@tekarch.com",
+      "password": "Admin123"
+    },
+    "invalid": {
+      "username": "manimegalai@techarch.com",
+      "password": "mani123"
+    }
+  },
+  "qa": {
+    "valid": {
+      "username": "july2024.manimegalai@tekarch.com",
+      "password": "Admin123"
+    },
+    "invalid": {
+      "username": "manimegalai@techarch.com",
+      "password": "mani123"
+    }
+  }
+}
